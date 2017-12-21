@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/home/nathan/Projects/shmup/shmup/Content/bossShip.png</File>
+    <File>/home/nathan/Projects/shmup/shmup/Content/enemyShip1.png</File>
+    <File>/home/nathan/Projects/shmup/shmup/Content/enemyShip2.png</File>
+    <File>/home/nathan/Projects/shmup/shmup/Content/enemyShip3.png</File>
+    <File>/home/nathan/Projects/shmup/shmup/Content/enemyShip4.png</File>
+    <File>/home/nathan/Projects/shmup/shmup/Content/playerShip.png</File>
+    <File>/home/nathan/Projects/shmup/shmup/Content/heart.bmp</File>
+    <File>/home/nathan/Projects/shmup/shmup/Content/deflect.wav</File>
+    <File>/home/nathan/Projects/shmup/shmup/Content/titleFont.spritefont</File>
+    <File>/home/nathan/Projects/shmup/shmup/Content/hudFont.spritefont</File>
+    <File>/home/nathan/Projects/shmup/shmup/Content/turret.png</File>
+    <File>/home/nathan/Projects/shmup/shmup/Content/spray.png</File>
+    <File>/home/nathan/Projects/shmup/shmup/Content/laser.png</File>
+    <File>/home/nathan/Projects/shmup/shmup/Content/laserSound.wav</File>
+    <File>/home/nathan/Projects/shmup/shmup/Content/laserPU.png</File>
+    <File>/home/nathan/Projects/shmup/shmup/Content/tileSet.png</File>
+    <File>/home/nathan/Projects/shmup/shmup/Content/track1.ogg</File>
+    <File>/home/nathan/Projects/shmup/shmup/Content/track2.ogg</File>
+    <File>/home/nathan/Projects/shmup/shmup/Content/track3.ogg</File>
+    <File>/home/nathan/Projects/shmup/shmup/Content/track4.ogg</File>
+  </SourceFiles>
+</SourceFileCollection>

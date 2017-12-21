@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{FD47A075-B63A-4792-B024-5E063AA14E6D}|Default">
+  <MonoDevelop.Ide.ItemProperties.shmup PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="shmup/enemy.cs">
+    <Files>
+      <File FileName="shmup/Game1.cs" Line="40" Column="38" />
+      <File FileName="shmup/player.cs" Line="26" Column="44" />
+      <File FileName="shmup/enemy.cs" Line="213" Column="11" />
+      <File FileName="shmup/bullet.cs" Line="22" Column="23" />
+      <File FileName="shmup/camera.cs" Line="23" Column="4" />
+      <File FileName="shmup/tile.cs" Line="32" Column="3" />
+      <File FileName="shmup/explosion.cs" Line="41" Column="5" />
+      <File FileName="shmup/level.cs" Line="44" Column="4" />
+      <File FileName="shmup/powerUp.cs" Line="41" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
